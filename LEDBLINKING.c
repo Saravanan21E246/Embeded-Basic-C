@@ -12,7 +12,7 @@ void main() /* main function declaration*?
   	  {
 		P0_1=0;  \* port 0 select to pin 0 high led on *\
 		wait();  *\wait function call to timeing dealay*\
-		P0_1=1;  *\port 0 select to pin 0 high led Off
+		P0_1=1;  *\port 0 select to pin 0 high led Off*\
 		wait();  *\wait function call to timeing dealay*\
   	  }
 

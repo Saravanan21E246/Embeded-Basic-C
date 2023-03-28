@@ -4,7 +4,7 @@ char i;
 for(i=0;i<=100;i++) /* empty for loop 100 times runing*/
 {}
 }
-void main() \* main function declaration*/
+void main() /* main function declaration*/
 {
 
  	
